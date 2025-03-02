@@ -2,8 +2,9 @@
 **Over The Wire / Bandit level 1-5**
 *Small & Simple walkthrough for beginners*
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="800px">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800px">
 </p>
+
 
 <h1 align="center">⚔️ OverTheWire Bandit Walkthrough (Levels 0-5) ⚔️</h1>
 
