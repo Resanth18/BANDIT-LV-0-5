@@ -1,6 +1,58 @@
 # BANDIT LV 0-5
 **Over The Wire / Bandit level 1-5**
 *Small & Simple walkthrough for beginners*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="800px">
+</p>
+
+<h1 align="center">⚔️ OverTheWire Bandit Walkthrough (Levels 0-5) ⚔️</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/yourusername/bandit-walkthrough?style=social" />
+  <img src="https://img.shields.io/github/forks/yourusername/bandit-walkthrough?style=social" />
+  <img src="https://img.shields.io/github/contributors/yourusername/bandit-walkthrough" />
+  <img src="https://img.shields.io/github/issues/yourusername/bandit-walkthrough" />
+</p>
+
+---
+## 🎯 About This Repository  
+This repository contains a **detailed walkthrough** of the **OverTheWire Bandit wargame (Levels 0-5)** with step-by-step solutions.  
+
+📌 **Topics Covered:**  
+✅ Linux Basics  
+✅ Cybersecurity Essentials  
+✅ File Handling Commands  
+✅ Hidden Files & Permissions  
+
+---
+
+## ⚔️ Levels Covered  
+- 🔹 **Level 0 → Level 1**
+- 🔹 **Level 1 → Level 2**
+- 🔹 **Level 2 → Level 3**
+- 🔹 **Level 3 → Level 4**
+- 🔹 **Level 4 → Level 5**
+
+---
+
+## 🛠️ Commands Used  
+
+| Command | Description |
+|---------|------------|
+| `ssh` | Secure Shell connection |
+| `ls -la` | List all files including hidden ones |
+| `cat filename` | Read file contents |
+| `cd directory` | Change directory |
+| `file filename` | Check file type |
+| `strings filename` | Extract readable text from a file |
+
+---
+
+## 📸 Screenshots  
+_Add your screenshots for each level here! Example:_  
+```md
+![Level 0 Screenshot](images/level0.png)
+
 
 
 ## Level 0 → Level 1
