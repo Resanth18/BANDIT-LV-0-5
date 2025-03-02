@@ -43,7 +43,7 @@ This repository contains a **detailed walkthrough** of the **OverTheWire Bandit 
 
 ## 📸 Screenshots  
 
-
+![Image](https://github.com/user-attachments/assets/2f80399c-2f4b-4f97-bd62-1e787ddb7e60)
 
 
 ## Level 0 → Level 1
