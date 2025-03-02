@@ -26,3 +26,9 @@
 8. ```bash
    cat readme
 10. The password for next level (Level 1) is displayed there `ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If`
+
+### 📸 Screenshot:
+![Level 0 Screenshot](## Level 0 → Level 1
+
+### 📸 Screenshot:
+![Level 0 Screenshot](https://user-images.githubusercontent.com/xxxxxxxxxx/your-image.png)
