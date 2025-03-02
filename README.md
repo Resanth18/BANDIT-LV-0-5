@@ -2,9 +2,8 @@
 **Over The Wire / Bandit level 1-5**
 *Small & Simple walkthrough for beginners*
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="800px">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="800px">
 </p>
-
 
 
 
