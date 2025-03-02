@@ -29,3 +29,4 @@
 
 ### 📸 Screenshot:
 ![Level 0 access](https://github.com/user-attachments/assets/67fc15d9-c4a9-4e21-b73d-537e218c6f66)
+![Level 0 PASS](https://github.com/user-attachments/assets/ce28fbbd-88f0-49c5-8d53-261d3e822223)
