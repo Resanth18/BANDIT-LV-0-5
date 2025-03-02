@@ -28,7 +28,4 @@
 10. The password for next level (Level 1) is displayed there `ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If`
 
 ### 📸 Screenshot:
-[Image](https://github.com/user-attachments/assets/599432b2-8f61-402a-8c58-6dfaaefd4575)
-
-### 📸 Screenshot:
-![Level 0 Screenshot](Level 0 (1st slide))
+![Level 0 access](https://github.com/user-attachments/assets/67fc15d9-c4a9-4e21-b73d-537e218c6f66)
