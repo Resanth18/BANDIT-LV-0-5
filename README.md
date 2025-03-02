@@ -31,4 +31,4 @@
 ![Level 0 Screenshot](## Level 0 → Level 1
 
 ### 📸 Screenshot:
-![Level 0 Screenshot]((https://github.com/user-attachments/assets/67fc15d9-c4a9-4e21-b73d-537e218c6f66))
+![Level 0 Screenshot](Level 0 (1st slide))
