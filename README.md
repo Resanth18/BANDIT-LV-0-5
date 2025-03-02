@@ -31,6 +31,10 @@
 ![Level 0 access](https://github.com/user-attachments/assets/67fc15d9-c4a9-4e21-b73d-537e218c6f66)
 ![Level 0 PASS](https://github.com/user-attachments/assets/ce28fbbd-88f0-49c5-8d53-261d3e822223)
 
+### ✅ Exit:
+1. To move next level you need to exit from current level (level0)
+2. To that just type the command: `Exit`
+
 
 ## Level 1 → Level 2
 
@@ -54,3 +58,6 @@
    cat ./-
 5. This tells Linux to read the file named *-*
 6. The password for Level 2 is displayed now: `263JGJPfgU6LtdEvgfWU1XP5yac29mFx`
+
+### 📸 Screenshot:
+
