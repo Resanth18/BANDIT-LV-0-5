@@ -18,7 +18,11 @@
    ```bash
    ssh bandit0@bandit.labs.overthewire.org -p 2220
 2. Enter the password: `bandit0`
-3. List the file using: `ls`
-4. Now there will be a file listed in the name of *README*
-5. Open that file by using: `cat readme`
-6. The password for next level (Level 1) is displayed there `ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If`
+3. List the file using:
+   ```bash
+    ls
+6. Now there will be a file listed in the name of *README*
+7. Open that file by using:
+8. ```bash
+   cat readme
+10. The password for next level (Level 1) is displayed there `ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If`
