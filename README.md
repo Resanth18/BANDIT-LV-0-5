@@ -1,4 +1,4 @@
-# BANDIT LV 1-5
+# BANDIT LV 0-5
 **Over The Wire / Bandit level 1-5**
 *Small & Simple walkthrough for beginners*
 
@@ -33,7 +33,7 @@
 
 ### ✅ Exit:
 1. To move next level you need to exit from current level (level0)
-2. To that just type the command: `Exit`
+2. To Exit just type the command: `Exit`
 
 
 ## Level 1 → Level 2
@@ -61,3 +61,7 @@
 
 ### 📸 Screenshot:
 ![Level1](https://github.com/user-attachments/assets/a4d4e971-e66d-462d-b02f-bc86279c527e)
+
+### ✅ Exit:
+1. To move next level you need to exit from current level (level 1)
+2. To Exit just type the command: `Exit`
